@@ -15,16 +15,24 @@
 
 #about {
   text-align: left;
-
+  transition: 0.2s linear;
 }
 
+
+/* experience */
+
+#work-info {
+
+}
 
 
 .section {
   padding-top: 40px;
   margin-left: 15px;
+
 }
 
 h4 {
   padding-bottom: 8px;
+
 }
