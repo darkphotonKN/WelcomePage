@@ -1,0 +1,30 @@
+
+.container {
+  margin-top: 25px;
+}
+
+/* nav */
+
+.nav li {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+
+/* about */
+
+#about {
+  text-align: left;
+
+}
+
+
+
+.section {
+  padding-top: 40px;
+  margin-left: 15px;
+}
+
+h4 {
+  padding-bottom: 8px;
+}
