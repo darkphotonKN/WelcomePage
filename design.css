@@ -1,7 +1,18 @@
 
 .container {
   margin-top: 25px;
+
 }
+
+.row {
+
+}
+
+/* HEADER */
+#contact-no {
+
+}
+
 
 /* nav */
 
@@ -10,6 +21,12 @@
   padding-right: 12px;
 }
 
+.scrollNav {
+  position: fixed;
+  top: 0;
+  transition: 0.3s linear;
+  margin-bottom: 4px;
+}
 
 /* about */
 
@@ -21,18 +38,26 @@
 
 /* experience */
 
+#experience {
+  transition: 0.2s linear;
+}
+
 #work-info {
 
 }
 
-
 .section {
   padding-top: 40px;
   margin-left: 15px;
-
 }
 
 h4 {
   padding-bottom: 8px;
 
+}
+
+
+/* test */
+#test {
+  margin-top: 500px;
 }
