@@ -13,6 +13,10 @@
 
 }
 
+.contact {
+  color: #227093;
+}
+
 
 /* nav */
 
@@ -20,12 +24,21 @@
   padding-left: 12px;
   padding-right: 12px;
 }
+.nav a {
+
+  color: #227093;
+}
 
 .scrollNav {
   position: fixed;
   top: 0;
-  transition: 0.3s linear;
+  width: 100%;
+  transition: 0.2s linear;
   margin-bottom: 4px;
+}
+.scrollNav a {
+  background-color: #fbc531;
+
 }
 
 /* about */
@@ -42,8 +55,8 @@
   transition: 0.2s linear;
 }
 
-#work-info {
-
+#work-info li {
+  margin-top: 11px;
 }
 
 .section {
@@ -59,5 +72,5 @@ h4 {
 
 /* test */
 #test {
-  margin-top: 500px;
+  margin-top: 600px;
 }
